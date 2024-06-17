@@ -52,10 +52,6 @@ The main code for the calculator is organized in a class for better structure an
 - **`clear_entry`**: Clears the entry field.
 - **`validate_entry`**: Validates the input to ensure only valid characters are entered.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests. Any contributions to improve the project are welcome!
-
 ## Acknowledgments
 
 - Thanks to the Python and Tkinter communities for providing excellent resources and support.
