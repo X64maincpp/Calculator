@@ -52,17 +52,9 @@ The main code for the calculator is organized in a class for better structure an
 - **`clear_entry`**: Clears the entry field.
 - **`validate_entry`**: Validates the input to ensure only valid characters are entered.
 
-## Screenshots
-
-![Calculator Screenshot](path/to/your/screenshot.png)
-
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Any contributions to improve the project are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
