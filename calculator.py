@@ -4,7 +4,7 @@ from tkinter import ttk
 class ModernCalculator:
     def __init__(self, root):
         self.root = root
-        self.root.title("Modern Calculator")
+        self.root.title("Calculator")
         self.root.geometry("320x450")
         self.root.resizable(False, False)
         self.root.configure(bg="#2e2e2e")
