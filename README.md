@@ -30,7 +30,7 @@ A sleek and modern calculator application built with Python and Tkinter. This pr
 3. **Clone the Repository**:
     ```sh
     git clone https://github.com/x64maincpp/calculator.git
-    cd modern-calculator
+    cd calculator
     ```
 
 4. **Run the Application**:
