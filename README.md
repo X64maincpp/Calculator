@@ -6,7 +6,6 @@ A sleek and modern calculator application built with Python and Tkinter. This pr
 
 - **Minimalist Design**: The calculator has a modern and minimalist design with a dark theme.
 - **Valid Input Only**: Ensures that only valid characters (numbers, operators, parentheses, and decimal points) are entered.
-- **Responsive Layout**: The buttons and display resize smoothly with the window.
 - **Keyboard Support**: Pressing Enter evaluates the expression.
 
 ## Technologies Used
